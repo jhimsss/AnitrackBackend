@@ -11,6 +11,22 @@
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.10.1"
     },
+    "require": {
+    "php": "^8.1",
+    "ext-curl": "*",
+    "ext-dom": "*",
+    "ext-fileinfo": "*",
+    "ext-filter": "*",
+    "ext-hash": "*",
+    "ext-json": "*",
+    "ext-mbstring": "*",
+    "ext-openssl": "*",
+    "ext-pcre": "*",
+    "ext-pdo": "*",
+    "ext-tokenizer": "*",
+    "ext-xml": "*",
+    "ext-zip": "*"
+  },
     "require-dev": {
         "fakerphp/faker": "^1.23",
         "laravel/pail": "^1.2.2",
